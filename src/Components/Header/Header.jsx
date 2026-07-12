@@ -120,7 +120,7 @@ export default function Header() {
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
           <div className="bg-white p-12 rounded-lg shadow-xl w-full max-w-md relative">
             <button onClick={() => setIsModalOpen(false)} className="absolute top-2 right-4 text-2xl font-bold">&times;</button>
-            <h2 className="text-xl font-bold mb-4">{t("Bizga qanday savolingiz bor?")}</h2>
+            <h2 className="w-full text-3xl font-bold mb-4  text-blue-900">{t("Bizga qanday savolingiz bor?")}</h2>
             <form className="flex flex-col gap-4">
               <label className="text-sm font-medium">{t("Name")}</label>
               <input type="text" placeholder={t("Ismingizni kiriting")} className="border p-2 rounded w-full" />

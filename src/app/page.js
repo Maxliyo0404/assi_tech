@@ -1,11 +1,13 @@
-import Link from 'next/link'
-import React from 'react'
 
+import React from 'react'
+import Hero from '@/Components/Home/Hero'
+import About from '@/Components/Home/About'
 
 export default function Homepage() {
   return (
-    <div>
-     <h2>sdfgmnbvc</h2>
-    </div>
+    <>
+    <Hero/>
+    <About/>
+    </>
   )
 }

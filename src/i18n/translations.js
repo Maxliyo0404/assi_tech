@@ -11,8 +11,15 @@ export const translations = {
     "Ismingizni kiriting": "Ismingizni kiriting",
     "Telefon raqami": "Telefon raqami",
     "Sizning xabaringiz": "Sizning xabaringiz",
-    "Name": "Ism",
-    "Yuborish": "Yuborish"
+    "Name": "Ism*",
+    "Yuborish": "Yuborish",
+    "ASSI Tech": "ASSI Tech",
+    "text1": "Bizning ASSITECHBIO kompaniyamiz UZI apparatlarini sotish va ularga texnik xizmat ko'rsatish, shuningdek, UZI kurslarini tashkil etishga ixtisoslashgan.",
+    "text2": "Biz turli ishlab chiqaruvchilar va narx toifalaridagi uskunalarning keng assortimentini taklif etamiz: mobil xizmatlar uchun ixcham portativ UZI apparatlaridan tortib, tibbiyot muassasalari uchun yuqori aniqlikdagi statsionar qurilmalargacha.",
+    "text3": "Biz ishonchli yetkazib beruvchilar bilan ishlaymiz va mahsulot sifatiga kafolat beramiz, shuningdek, UZI qurilmalariga kafolatli va kafolatdan keyingi xizmat ko'rsatamiz.",
+    "text4": "Mutaxassislarimiz tibbiy asbob-uskunalar sohasida katta tajribaga ega va har doim kerakli uskunalarni tanlash va o'rnatishda yordam berishga tayyor.",
+    "text5": "Maqsadimiz - mijozlarga eng yaxshi UZI apparatlarini taqdim etish, ularning ishini optimallashtirish va bemorlarni tashxislash hamda davolash samaradorligini oshirishga yordam berishdir.",
+    "text6": "Biz mijozlarimiz bilan uzoq muddatli munosabatlar o'rnatishga intilamiz va ularga faqat eng yaxshi uskunalar va xizmatlarni taklif qilamiz."
   },
   ru: {
     "About Us": "О нас",
@@ -24,8 +31,15 @@ export const translations = {
     "Ismingizni kiriting": "Введите ваше имя",
     "Telefon raqami": "Номер телефона",
     "Sizning xabaringiz": "Ваше сообщение",
-    "Name": "Имя",
-    "Yuborish": "Отправить"
+    "Name": "Имя*",
+    "Yuborish": "Отправить",
+    "ASSI Tech": "ASSI Tech",
+    "text1": "Наша компания ASSITECHBIO специализируется на: продаже и обслуживании аппаратов УЗИ, а также организации курсов УЗИ.",
+    "text2": "Мы предлагаем широкий ассортимент оборудования от различных производителей и в разных ценовых категориях: от компактных портативных УЗИ-сканеров для мобильных услуг до высокоточных стационарных установок для медицинских учреждений.",
+    "text3": "Мы работаем с надежными поставщиками и гарантируем качество продукции, а также предоставляем гарантийное и постгарантийное обслуживание ультразвуковых устройств.",
+    "text4": "Наши специалисты обладают большим опытом в области медицинского оборудования и всегда готовы помочь с подбором и установкой необходимой техники.",
+    "text5": "Наша цель — обеспечить клиентов лучшими аппаратами УЗИ, помочь оптимизировать их работу и повысить эффективность диагностики и лечения пациентов.",
+    "text6": "Мы стремимся к долгосрочным отношениям с нашими клиентами, предлагая им только лучшее оборудование и сервис."
   },
   en: {
     "About Us": "About Us",
@@ -37,7 +51,14 @@ export const translations = {
     "Ismingizni kiriting": "Enter your name",
     "Telefon raqami": "Phone number",
     "Sizning xabaringiz": "Your message",
-    "Name" : "Name ",
-    "Yuborish": "Submit"
+    "Name": "Name*",
+    "Yuborish": "Submit",
+    "ASSI Tech": "ASSI Tech",
+    "text1": "Our company ASSITECHBIO specializes in: sales and service of ultrasound devices and organization of ultrasound courses.",
+    "text2": "We offer a wide range of equipment from various manufacturers and price categories: from compact portable ultrasound machines for mobile services to high-precision stationary installations for medical institutions.",
+    "text3": "We work with trusted suppliers and guarantee product quality, as well as provide warranty and post-warranty service for ultrasonic devices.",
+    "text4": "Our specialists have extensive experience in the field of medical equipment and are always ready to help with the selection and installation of the necessary equipment.",
+    "text5": "Our goal is to provide customers with the best ultrasound machines, help them optimize their work and improve the efficiency of diagnosing and treating patients.",
+    "text6": "We strive for long-term relationships with our customers, offering them only the best equipment and service."
   }
 };
