@@ -22,13 +22,13 @@ export const MAP_EMBED =
   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3298.8109377689675!2d69.28942496359096!3d41.37019392500077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38aef334e5278a27%3A0x4d04cbba7c68f2fa!2sYunusabad-11%2C%20100037%2C%20Tashkent%2C%20Tashkent%20Region%2C%20Uzbekistan!5e0!3m2!1sen!2s!4v1719814194681!5m2!1sen!2s";
 
 export const SERVICES = [
-  { id: 1, title: "Сервис", image: "/assets/services-COB4XtZd.jpg", hero: "/assets/service1-g9rlDz2O.jpg" },
-  { id: 2, title: "Производство", image: "/assets/services2-K8QYSDe8.jpg", hero: "/assets/service2-BesatTWC.jpg" },
-  { id: 3, title: "Комплексное оснащение", image: "/assets/services3-BSCkrwvh.jpg", hero: "/assets/service3-ab-gM-Fk.jpg" },
-  { id: 4, title: "Лизинг", image: "/assets/services4-D49m1GA5.jpg", hero: "/assets/service4-DDEoC3mN.jpg" },
-  { id: 5, title: "Trade-in", image: "/assets/services5-Dxcc1c2b.jpg", hero: "/assets/service5-5C1_SgZr.jpg" },
-  { id: 6, title: "Обучение", image: "/assets/servies6-Czu_XXJd.jpg", hero: "/assets/service6-CdmNmnUY.jpg" },
-  { id: 7, title: "ProVisio", image: "/assets/services7-DO5HLDSf.jpg", hero: "/assets/service7-D9xiCY5v.jpg" },
+  { id: 1, title: "Сервис", image: "/assi_img/service1.jpg", hero: "/assets/service1-g9rlDz2O.jpg" },
+  { id: 2, title: "Производство", image:"/assi_img/service2.jpg", hero: "/assets/service2-BesatTWC.jpg" },
+  { id: 3, title: "Комплексное оснащение", image: "/assi_img/service3.jpg", hero: "/assets/service3-ab-gM-Fk.jpg" },
+  { id: 4, title: "Лизинг", image: "/assi_img/service4.jpg", hero: "/assets/service4-DDEoC3mN.jpg" },
+  { id: 5, title: "Trade-in", image: "/assi_img/service5.jpg", hero: "/assets/service5-5C1_SgZr.jpg" },
+  { id: 6, title: "Обучение", image:"/assi_img/service6.jpg" , hero: "/assets/service6-CdmNmnUY.jpg" },
+  { id: 7, title: "ProVisio", image: "/assi_img/service7.jpg", hero: "/assets/service7-D9xiCY5v.jpg" },
 ];
 
 export const COURSES = [

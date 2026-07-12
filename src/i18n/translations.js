@@ -30,7 +30,15 @@ export const translations = {
     "kurs.title3": "KATTALAR EXO-KARDIOGRAFIYASI",
     "kurs.title4": "BOLALAR EXO-KARDIOGRAFIYASI",
     "kurs.title5": "AKUSHERLIK VA GINEKOLOGIYA",
-    "kurs.title6": "FETAL EXO-KARDIOGRAFIYA"
+    "kurs.title6": "FETAL EXO-KARDIOGRAFIYA",
+    "support.title": "Qo'llab-quvvatlaymiz mijozni barcha bosqichlarda",
+    "slide1": "Lizing",
+    "slide2": "Trade-in",
+    "slide3": "O'qitish",
+    "slide4": "ProVisio",
+    "slide5": "Servis",
+    "slide6": "Ishlab chiqarish",
+    "slide7": "Kompleks jihozlash"
   },
   ru: {
     "About Us": "О нас",
@@ -61,7 +69,16 @@ export const translations = {
     "kurs.title3": "ВЗРОСЛАЯ ЭХОКАРДИОГРАФИЯ",
     "kurs.title4": "ДЕТСКАЯ ЭХОКАРДИОГРАФИЯ",
     "kurs.title5": "АКУШЕРСТВО И ГИНЕКОЛОГИЯ",
-    "kurs.title6": "ФЕТАЛЬНАЯ ЭХОКАРДИОГРАФИЯ"
+    "kurs.title6": "ФЕТАЛЬНАЯ ЭХОКАРДИОГРАФИЯ",
+    "Qo'llab-quvvatlaymiz": "Поддерживаем",
+    "mijozni barcha bosqichlarda": "клиента на всех этапах",
+    "slide1": "Лизинг",
+    "slide2": "Trade-in",
+    "slide3": "Обучение",
+    "slide4": "ProVisio",
+    "slide5": "Сервис",
+    "slide6": "Производство",
+    "slide7": "Комплексное оснащение"
   },
   en: {
     "About Us": "About Us",
@@ -92,6 +109,15 @@ export const translations = {
     "kurs.title3": "ADULT ECHOCARDIOGRAPHY",
     "kurs.title4": "PEDIATRIC ECHOCARDIOGRAPHY",
     "kurs.title5": "OBSTETRICS AND GYNECOLOGY",
-    "kurs.title6": "FETAL ECHOCARDIOGRAPHY"
+    "kurs.title6": "FETAL ECHOCARDIOGRAPHY",
+    "Qo'llab-quvvatlaymiz": "We support",
+    "mijozni barcha bosqichlarda": "the client at all stages",
+    "slide1": "Leasing",
+    "slide2": "Trade-in",
+    "slide3": "Training",
+    "slide4": "ProVisio",
+    "slide5": "Service",
+    "slide6": "Production",
+    "slide7": "Complex equipment"
   }
 };

@@ -4,6 +4,7 @@ import Hero from '@/Components/Home/Hero'
 import About from '@/Components/Home/About'
 import Kurs from '@/Components/Home/Kurs'
 import Numbers from '@/Components/Home/Numbers'
+import Support from '@/Components/Home/Support'
 
 export default function Homepage() {
   return (
@@ -12,6 +13,7 @@ export default function Homepage() {
     <About/>
     <Kurs/>
     <Numbers/>
+    <Support/>
     </>
   )
 }
