@@ -30,7 +30,20 @@ export const SERVICES = [
   { id: 6, title: "Обучение", image:"/assi_img/service6.jpg" , hero: "/assets/service6-CdmNmnUY.jpg" },
   { id: 7, title: "ProVisio", image: "/assi_img/service7.jpg", hero: "/assets/service7-D9xiCY5v.jpg" },
 ];
-
+export const SUPPLY_DATA = [
+  {
+    id: 1,
+    highlight: "Supply",
+    text: "medical equipment directly from the manufacturer",
+    image: "/assets/your-image-1.jpg" // Rasm yo'lini to'g'irlang
+  },
+  {
+    id: 2,
+    highlight: "Solve",
+    text: "tasks of comprehensive medical equipment and service maintenance",
+    image: "/assets/your-image-2.jpg" // Rasm yo'lini to'g'irlang
+  }
+];
 export const COURSES = [
   "НЕЙРОСОНОГРАФИЯ",
   "ВЗРОСЛАЯ ЭХОКАРДИОГРАФИЯ",
