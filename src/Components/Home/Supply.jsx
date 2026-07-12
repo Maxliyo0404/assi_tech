@@ -9,7 +9,7 @@ export default function SupplySection() {
             <h2 className="text-[40px] leading-tight font-bold text-navy">
               <span className="text-red-600">{item.highlight}</span> {item.text}
             </h2>
-            {/* Rasm qismini ehtiyojga qarab qo'shasiz */}
+          
           </div>
         ))}
       </div>
