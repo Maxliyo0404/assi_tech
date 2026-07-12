@@ -46,7 +46,6 @@ export default function Support() {
               href={`/service/${s.id}`}
               className="relative block w-full h-[340px] rounded-lg overflow-hidden group"
             >
-              {/* Rasm */}
               <Image
                 src={s.image}
                 alt={s.title}
@@ -54,10 +53,10 @@ export default function Support() {
                 className="object-cover transition-transform duration-500 group-hover:scale-105"
               />
               
-              {/* Qorayish effekti */}
+
               <div className="absolute inset-0 bg-black/40 group-hover:bg-black/50 transition-colors duration-300" />
               
-              {/* Yozuv */}
+        
               <span className="absolute bottom-6 left-6 text-white font-bold text-xl z-10">
                 {s.title}
               </span>

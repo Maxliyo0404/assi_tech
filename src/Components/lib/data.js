@@ -35,13 +35,13 @@ export const SUPPLY_DATA = [
     id: 1,
     highlight: "Supply",
     text: "medical equipment directly from the manufacturer",
-    image: "/assets/your-image-1.jpg" // Rasm yo'lini to'g'irlang
+
   },
   {
     id: 2,
     highlight: "Solve",
     text: "tasks of comprehensive medical equipment and service maintenance",
-    image: "/assets/your-image-2.jpg" // Rasm yo'lini to'g'irlang
+    image: "/assi_img/supply.png" // Rasm yo'lini to'g'irlang
   }
 ];
 export const COURSES = [
