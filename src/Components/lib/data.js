@@ -41,7 +41,7 @@ export const SUPPLY_DATA = [
     id: 2,
     highlight: "Solve",
     text: "tasks of comprehensive medical equipment and service maintenance",
-    image: "/assi_img/supply.png" // Rasm yo'lini to'g'irlang
+    image: "/assi_img/supply.png" 
   }
 ];
 export const COURSES = [
