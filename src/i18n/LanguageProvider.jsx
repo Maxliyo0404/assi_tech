@@ -43,9 +43,10 @@ export function LanguageProvider({ children }) {
   const lang = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
 
   const t = (key) => {
-    const dict = translations[lang] || translations.en;
-    return dict[key] ?? key;
-  };
+  const dict = translations[lang] || translations.en;
+  // Agar kalit topilmasa, kalitning o'zini qaytaradi (xato bermaydi)
+  return dict ? (dict[key] ?? key) : key;
+};
 
   return (
     <LanguageContext.Provider value={{ lang, setLang: setLanguage, t }}>
