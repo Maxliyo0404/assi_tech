@@ -39,8 +39,8 @@ export const SUPPLY_DATA = [
   },
   {
     id: 2,
-    highlight: "Solve",
-    text: "tasks of comprehensive medical equipment and service maintenance",
+    titleKey: "solve_title",
+    textKey: "solve_text",
     image: "/assi_img/supply.png" 
   }
 ];
