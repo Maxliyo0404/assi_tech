@@ -1,3 +1,11 @@
+
+"use client";
+
+import Image from "next/image";
+// MASHU QATOR YETISHMAYAPTI:
+import { useLanguage } from "@/i18n/LanguageProvider"; 
+
+
 export default function About() {
   const { t } = useLanguage();
 

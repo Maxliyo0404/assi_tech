@@ -19,7 +19,18 @@ export const translations = {
     "text3": "Biz ishonchli yetkazib beruvchilar bilan ishlaymiz va mahsulot sifatiga kafolat beramiz, shuningdek, UZI qurilmalariga kafolatli va kafolatdan keyingi xizmat ko'rsatamiz.",
     "text4": "Mutaxassislarimiz tibbiy asbob-uskunalar sohasida katta tajribaga ega va har doim kerakli uskunalarni tanlash va o'rnatishda yordam berishga tayyor.",
     "text5": "Maqsadimiz - mijozlarga eng yaxshi UZI apparatlarini taqdim etish, ularning ishini optimallashtirish va bemorlarni tashxislash hamda davolash samaradorligini oshirishga yordam berishdir.",
-    "text6": "Biz mijozlarimiz bilan uzoq muddatli munosabatlar o'rnatishga intilamiz va ularga faqat eng yaxshi uskunalar va xizmatlarni taklif qilamiz."
+    "text6": "Biz mijozlarimiz bilan uzoq muddatli munosabatlar o'rnatishga intilamiz va ularga faqat eng yaxshi uskunalar va xizmatlarni taklif qilamiz.",
+    "hello11": "Raqamlarda biz",
+    "hello24": "Brend",
+    "hello25": "Dilerlar",
+    "hello26": "Xodimlar",
+    "hello27": "Mijozlar",
+    "kurs.title1": "Bizdagi mavjud kurslar",
+    "kurs.title2": "NEYROSONOGRAFIYA",
+    "kurs.title3": "KATTALAR EXO-KARDIOGRAFIYASI",
+    "kurs.title4": "BOLALAR EXO-KARDIOGRAFIYASI",
+    "kurs.title5": "AKUSHERLIK VA GINEKOLOGIYA",
+    "kurs.title6": "FETAL EXO-KARDIOGRAFIYA"
   },
   ru: {
     "About Us": "О нас",
@@ -39,7 +50,18 @@ export const translations = {
     "text3": "Мы работаем с надежными поставщиками и гарантируем качество продукции, а также предоставляем гарантийное и постгарантийное обслуживание ультразвуковых устройств.",
     "text4": "Наши специалисты обладают большим опытом в области медицинского оборудования и всегда готовы помочь с подбором и установкой необходимой техники.",
     "text5": "Наша цель — обеспечить клиентов лучшими аппаратами УЗИ, помочь оптимизировать их работу и повысить эффективность диагностики и лечения пациентов.",
-    "text6": "Мы стремимся к долгосрочным отношениям с нашими клиентами, предлагая им только лучшее оборудование и сервис."
+    "text6": "Мы стремимся к долгосрочным отношениям с нашими клиентами, предлагая им только лучшее оборудование и сервис.",
+    "hello11": "Мы в цифрах",
+    "hello24": "Бренд",
+    "hello25": "Дилеры",
+    "hello26": "Сотрудники",
+    "hello27": "Клиенты",
+    "kurs.title1": "Курсы, которые у нас есть",
+    "kurs.title2": "НЕЙРОСОНОГРАФИЯ",
+    "kurs.title3": "ВЗРОСЛАЯ ЭХОКАРДИОГРАФИЯ",
+    "kurs.title4": "ДЕТСКАЯ ЭХОКАРДИОГРАФИЯ",
+    "kurs.title5": "АКУШЕРСТВО И ГИНЕКОЛОГИЯ",
+    "kurs.title6": "ФЕТАЛЬНАЯ ЭХОКАРДИОГРАФИЯ"
   },
   en: {
     "About Us": "About Us",
@@ -59,6 +81,17 @@ export const translations = {
     "text3": "We work with trusted suppliers and guarantee product quality, as well as provide warranty and post-warranty service for ultrasonic devices.",
     "text4": "Our specialists have extensive experience in the field of medical equipment and are always ready to help with the selection and installation of the necessary equipment.",
     "text5": "Our goal is to provide customers with the best ultrasound machines, help them optimize their work and improve the efficiency of diagnosing and treating patients.",
-    "text6": "We strive for long-term relationships with our customers, offering them only the best equipment and service."
+    "text6": "We strive for long-term relationships with our customers, offering them only the best equipment and service.",
+    "hello11": "We are in numbers",
+    "hello24": "Brand",
+    "hello25": "Dealers",
+    "hello26": "Employees",
+    "hello27": "Clients",
+    "kurs.title1": "Courses we offer",
+    "kurs.title2": "NEUROSONOGRAPHY",
+    "kurs.title3": "ADULT ECHOCARDIOGRAPHY",
+    "kurs.title4": "PEDIATRIC ECHOCARDIOGRAPHY",
+    "kurs.title5": "OBSTETRICS AND GYNECOLOGY",
+    "kurs.title6": "FETAL ECHOCARDIOGRAPHY"
   }
 };
