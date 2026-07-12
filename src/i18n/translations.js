@@ -82,7 +82,11 @@ export const translations = {
     "slide4": "ProVisio",
     "slide5": "Сервис",
     "slide6": "Производство",
-    "slide7": "Комплексное оснащение"
+    "slide7": "Комплексное оснащение",
+    "supply_title": "Supply",
+    "supply_text": "медицинское оборудование напрямую от производителя",
+    "solve_title": "Solve",
+    "solve_text": "задачи по комплексному оснащению и сервисному обслуживанию"
   },
   en: {
     "About Us": "About Us",
