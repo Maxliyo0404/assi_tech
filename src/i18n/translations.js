@@ -38,7 +38,11 @@ export const translations = {
     "slide4": "ProVisio",
     "slide5": "Servis",
     "slide6": "Ishlab chiqarish",
-    "slide7": "Kompleks jihozlash"
+    "slide7": "Kompleks jihozlash",
+    "supply_title": "Supply",
+    "supply_text": "tibbiy jihozlar to'g'ridan-to'g'ri ishlab chiqaruvchidan",
+    "solve_title": "Solve",
+    "solve_text": "kompleks jihozlash va xizmat ko'rsatish vazifalari"
   },
   ru: {
     "About Us": "О нас",
