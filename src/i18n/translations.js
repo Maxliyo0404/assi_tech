@@ -126,6 +126,10 @@ export const translations = {
     "slide4": "ProVisio",
     "slide5": "Service",
     "slide6": "Production",
-    "slide7": "Complex equipment"
+    "slide7": "Complex equipment",
+    "supply_title": "Supply",
+    "supply_text": "medical equipment directly from the manufacturer",
+    "solve_title": "Solve",
+    "solve_text": "tasks of comprehensive medical equipment and service maintenance"
   }
 };
