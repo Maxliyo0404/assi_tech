@@ -5,7 +5,7 @@ import About from '@/Components/Home/About'
 import Kurs from '@/Components/Home/Kurs'
 import Numbers from '@/Components/Home/Numbers'
 import Support from '@/Components/Home/Support'
-import
+import SupplySection from '@/Components/Home/Supply'
 
 export default function Homepage() {
   return (
@@ -15,6 +15,7 @@ export default function Homepage() {
     <Kurs/>
     <Numbers/>
     <Support/>
+    <SupplySection/>
     </>
   )
 }
