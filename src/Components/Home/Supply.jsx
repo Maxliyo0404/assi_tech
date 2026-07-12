@@ -1,5 +1,5 @@
-import { SUPPLY_DATA } from "/src/Components/lib/data";
-import { useLanguage } from "/src/i18n/LanguageProvider; 
+import { SUPPLY_DATA } from "@/Components/lib/data";
+import { useLanguage } from "/src/i18n/LanguageProvider"; 
 import Image from "next/image";
 
 export default function SupplySection() {
