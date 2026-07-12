@@ -4,7 +4,6 @@ import Image from "next/image";
 import { Link, usePathname, useRouter } from "@/i18n/routing"; // next-intl routing
 import { useState } from "react";
 import { useLocale } from "next-intl"; // standart hook
-
 // Flaglar ro'yxati
 const FLAGS = {
   uz: "/assets/uzbek-CHK8xG06.png",
