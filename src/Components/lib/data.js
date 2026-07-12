@@ -33,8 +33,8 @@ export const SERVICES = [
 export const SUPPLY_DATA = [
   {
     id: 1,
-    highlight: "Supply",
-    text: "medical equipment directly from the manufacturer",
+   titleKey: "supply_title",
+    textKey: "supply_text"
 
   },
   {
