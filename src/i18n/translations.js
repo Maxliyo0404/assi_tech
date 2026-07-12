@@ -11,6 +11,7 @@ export const translations = {
     "Ismingizni kiriting": "Ismingizni kiriting",
     "Telefon raqami": "Telefon raqami",
     "Sizning xabaringiz": "Sizning xabaringiz",
+    "Name": "Ism",
     "Yuborish": "Yuborish"
   },
   ru: {
@@ -23,6 +24,7 @@ export const translations = {
     "Ismingizni kiriting": "Введите ваше имя",
     "Telefon raqami": "Номер телефона",
     "Sizning xabaringiz": "Ваше сообщение",
+    "Name": "Имя",
     "Yuborish": "Отправить"
   },
   en: {
@@ -35,6 +37,7 @@ export const translations = {
     "Ismingizni kiriting": "Enter your name",
     "Telefon raqami": "Phone number",
     "Sizning xabaringiz": "Your message",
+    "Name" : "Name ",
     "Yuborish": "Submit"
   }
 };

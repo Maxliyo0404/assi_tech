@@ -122,9 +122,11 @@ export default function Header() {
             <button onClick={() => setIsModalOpen(false)} className="absolute top-2 right-4 text-2xl font-bold">&times;</button>
             <h2 className="text-xl font-bold mb-4">{t("Bizga qanday savolingiz bor?")}</h2>
             <form className="flex flex-col gap-4">
-              
-              <label className="py-2" htmlFor="text">ism</label><input type="text" placeholder={t("Ismingizni kiriting")} className="border p-2 rounded w-full" />
+              <label className="text-sm font-medium">{t("Name")}</label>
+              <input type="text" placeholder={t("Ismingizni kiriting")} className="border p-2 rounded w-full" />
+              <label className="text-sm font-medium">{t("Telefon raqami")}</label>
               <input type="text" placeholder={t("Telefon raqami")} className="border p-2 rounded w-full" />
+             <label className="text-sm font-medium">{t("Sizning xabaringiz")}</label>
              <textarea placeholder={t("Sizning xabaringiz")}className="border p-2 rounded w-full h-24"></textarea>
               <button type="submit" className="bg-[#d32f2f] text-white py-2 rounded font-bold hover:bg-red-700">{t("Yuborish")}</button>
             </form>
