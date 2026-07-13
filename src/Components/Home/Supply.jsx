@@ -12,26 +12,26 @@ export default function SupplySection() {
 
 
  return (
-    <section className="py-16 bg-white w-full overflow-hidden">
+    <section className="py-16 bg-white w-full">
       <div className="container mx-auto px-4">
         {SUPPLY_DATA.map((item) => (
           <div 
             key={item.id} 
-            className={`relative flex flex-col md:flex-row items-center justify-between mb-20 gap-8 ${
+            className={`flex flex-col md:flex-row items-center justify-between mb-20 gap-10 ${
               item.reverse ? "md:flex-row-reverse" : ""
             }`}
           >
-            {/* Matn qismi */}
-            <div className="w-full md:w-[55%] z-10">
-              <h2 className="text-[35px] md:text-[45px] font-bold text-[#000080] leading-[1.1] text-left">
+            {/* Matn qismi: max-w bilan chekladik, rasmga yopishib qolmaydi */}
+            <div className="w-full md:w-1/2 max-w-[600px]">
+              <h2 className="text-[32px] md:text-[45px] font-bold text-[#000080] leading-[1.1] text-left">
                 <span className="text-red-600">{t(item.titleKey)}</span>{" "}
                 {t(item.textKey)}
               </h2>
             </div>
 
-            {/* Rasm qismi (Positioning bilan) */}
+            {/* Rasm qismi */}
             {item.image && (
-              <div className="relative w-full md:w-[400px] h-[300px] flex items-center justify-center">
+              <div className="w-full md:w-[400px] h-[300px] relative shrink-0">
                 <Image 
                   src={item.image} 
                   alt={t(item.titleKey)} 
