@@ -1,9 +1,17 @@
+'use client';
+
+import { SUPPLY_DATA} from "../lib/data"; 
+import { useLanguage } from "@/i18n/LanguageProvider";
+import Image from "next/image";
+
 export default function SupplySection() {
-  const { t } = useLanguage(); 
+ const { lang, t } = useLanguage(); 
+
 
   if (!t) return null; 
 
-  return (
+
+ return (
     <section className="py-20 bg-white w-full">
       <div className="container mx-auto px-4">
         {SUPPLY_DATA.map((item) => (
