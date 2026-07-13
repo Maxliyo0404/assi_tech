@@ -19,9 +19,9 @@ export default function SupplySection() {
             
             <h2 className="text-[45px] font-bold text-[#000080] leading-[1.1] w-full md:w-[60%] text-left">
               <span className="text-red-600">
-                {t[item.titleKey]}
+                {t("item.titleKey")}
               </span>{" "}
-              {t[item.textKey]}
+              {t("item.textKey")}
             </h2>
 
             {item.image && (
