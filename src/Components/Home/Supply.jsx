@@ -15,14 +15,19 @@ export default function SupplySection() {
     <section className="py-20 bg-white w-full">
       <div className="container mx-auto px-4">
         {SUPPLY_DATA.map((item) => (
-          <div key={item.id} className="flex flex-col md:flex-row items-center justify-between w-full mb-24 gap-10">
-            
-            <h2 className={`font-bold text-[#000080] leading-[1.1] text-left ${item.image ? 'text-[45px] w-full md:w-[60%]' : 'text-[45px] w-full text-center'}`}>
+          <div 
+            key={item.id} 
+            className={`flex flex-col md:flex-row${item.reverse ? '-reverse' : ''} items-center justify-between w-full mb-24 gap-12`}
+          >
+            {/* Matn qismi */}
+            <h2 className="text-[45px] font-bold text-[#000080] leading-[1.1] w-full md:w-[50%] text-left">
               <span className="text-red-600">
                 {t(item.titleKey)}
               </span>{" "}
               {t(item.textKey)}
             </h2>
+
+            {/* Rasm qismi */}
             {item.image && (
               <div className="relative w-full md:w-[400px] h-[300px] shrink-0">
                 <Image 
