@@ -24,8 +24,6 @@ export default function SupplySection() {
               </span>{" "}
               {t(item.textKey)}
             </h2>
-
-            {/* Rasm faqat mavjud bo'lganda chiqadi */}
             {item.image && (
               <div className="relative w-full md:w-[400px] h-[300px] shrink-0">
                 <Image 
