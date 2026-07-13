@@ -42,7 +42,8 @@ export const SUPPLY_DATA = [
     id: 2,
     titleKey: "solve_title",
     textKey: "solve_text",
-    image: "/assi_img/supply1.png" 
+    image: "/assi_img/supply1.png" ,
+    reverse: true
   }
 ];
 export const COURSES = [
