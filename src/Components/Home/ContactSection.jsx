@@ -21,8 +21,7 @@ export default function ContactSection() {
     // Telegram Bot ma'lumotlari
     const BOT_TOKEN = "8765397823:AAG5pg9Fxxo3rjFyFQKZyyA2SU-II5Y2zk0";
     const CHAT_ID = "6660879147";
-
-    // Telegramga boradigan xabar formati
+    
     const telegramText = `📬 *Yangi xabar (Assitech)*\n\n` +
       `👤 *Ism:* ${ name }\n` +
       `📞 *Telefon:* ${ phone }\n` +
