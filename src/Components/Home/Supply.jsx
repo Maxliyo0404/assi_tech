@@ -17,7 +17,7 @@ export default function SupplySection() {
         {SUPPLY_DATA.map((item) => (
           <div key={item.id} className="flex flex-col md:flex-row items-center justify-between w-full mb-24 gap-10">
             
-            {/* Agar rasm bo'lsa matn 60%, bo'lmasa 100% joy egallaydi */}
+            
             <h2 className={`font-bold text-[#000080] leading-[1.1] text-left ${item.image ? 'text-[45px] w-full md:w-[60%]' : 'text-[45px] w-full text-center'}`}>
               <span className="text-red-600">
                 {t(item.titleKey)}
