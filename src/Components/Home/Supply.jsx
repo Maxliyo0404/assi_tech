@@ -21,7 +21,6 @@ export default function SupplySection() {
               item.reverse ? "md:flex-row-reverse" : ""
             }`}
           >
-            {/* Matn qismi */}
             <div className="w-full md:w-[55%] z-10">
               <h2 className="text-[35px] md:text-[45px] font-bold text-[#000080] leading-[1.1] text-left">
                 <span className="text-red-600">{t(item.titleKey)}</span>{" "}
