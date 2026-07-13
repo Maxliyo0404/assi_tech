@@ -2,8 +2,8 @@
 
 import { useState } from "react";
 import { useLanguage } from "@/i18n/LanguageProvider";
-import { CONTACT } from "@/lib/data";
-import { ClockIcon, HeadsetIcon, LocationIcon, MailIcon } from "./icons";
+import { CONTACT } from "../lib/data";
+import { ClockIcon, HeadsetIcon, LocationIcon, MailIcon } from "../icons";
 
 export default function ContactSection() {
   const { t } = useLanguage();
