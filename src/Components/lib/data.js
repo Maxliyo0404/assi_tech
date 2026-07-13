@@ -36,14 +36,14 @@ export const SUPPLY_DATA = [
    titleKey: "supply_title",
     textKey: "supply_text",
     image: "/assi_img/supply.png" ,
-    reverse: false
+  
   },
   {
     id: 2,
     titleKey: "solve_title",
     textKey: "solve_text",
     image: "/assi_img/supply1.png" ,
-    reverse: true
+    
   }
 ];
 export const COURSES = [
