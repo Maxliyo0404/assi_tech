@@ -57,7 +57,7 @@ export default function ContactSection() {
     <section id="contact" className="py-8 lg:px-[150px]">
       <div className="container">
         <div className="flex flex-col-reverse lg:flex-row w-full">
-          {/* Left info panel */ }
+    
           <div
             className="w-full lg:w-1/2 px-3 py-5 md:px-[70px] md:py-5"
             style={ { background: "var(--dark-panel)" } }
