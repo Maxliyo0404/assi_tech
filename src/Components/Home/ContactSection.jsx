@@ -18,10 +18,10 @@ export default function ContactSection() {
     setLoading( true );
     setStatus( null );
 
-    // Telegram Bot ma'lumotlari
-    const BOT_TOKEN = "8765397823:AAG5pg9Fxxo3rjFyFQKZyyA2SU-II5Y2zk0";
-    const CHAT_ID = "6660879147";
-    
+   
+    const BOT_TOKEN = "8686982263:AAFKB7SAvXxSXiV_diDuY3nYRuwOA_bXUf4";
+    const CHAT_ID = "647264939";
+
     const telegramText = `📬 *Yangi xabar (Assitech)*\n\n` +
       `👤 *Ism:* ${ name }\n` +
       `📞 *Telefon:* ${ phone }\n` +
