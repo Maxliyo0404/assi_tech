@@ -6,6 +6,7 @@ import Kurs from '@/Components/Home/Kurs'
 import Numbers from '@/Components/Home/Numbers'
 import Support from '@/Components/Home/Support'
 import SupplySection from '@/Components/Home/Supply'
+import ContactSection from '@/Components/Home/ContactSection'
 
 export default function Homepage() {
   return (
@@ -16,6 +17,7 @@ export default function Homepage() {
     <Numbers/>
     <Support/>
     <SupplySection/>
+    <ContactSection/>
     </>
   )
 }
