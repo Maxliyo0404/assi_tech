@@ -34,8 +34,9 @@ export const SUPPLY_DATA = [
   {
     id: 1,
    titleKey: "supply_title",
-    textKey: "supply_text"
-    image: "/assi_img/supply.png" 
+    textKey: "supply_text",
+    image: "/assi_img/supply.png" ,
+    reverse: false
   },
   {
     id: 2,
