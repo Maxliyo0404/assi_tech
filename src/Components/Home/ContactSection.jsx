@@ -97,7 +97,7 @@ export default function ContactSection() {
             </div>
           </div>
 
-          {/* Right form panel */ }
+        
           <div
             className="w-full lg:w-1/2 px-3 py-5 md:px-[70px]"
             style={ { background: "var(--purple)" } }
