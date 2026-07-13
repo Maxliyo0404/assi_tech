@@ -28,8 +28,6 @@ export default function SupplySection() {
                 {t(item.textKey)}
               </h2>
             </div>
-
-            {/* Rasm qismi (Positioning bilan) */}
             {item.image && (
               <div className="relative w-full md:w-[400px] h-[300px] flex items-center justify-center">
                 <Image 
