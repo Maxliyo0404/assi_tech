@@ -9,8 +9,6 @@ export default function SupplySection() {
 
 
   if (!t) return null; 
-
-
  return (
     <section className="py-16 bg-white w-full overflow-hidden">
       <div className="container mx-auto px-4">
